@@ -1,0 +1,70 @@
+{
+    "1544dad52234234@#": {
+      "dados_pessoais": {
+        "nome": "fulano",
+        "função": "operador"
+      },
+      "seção1": {
+        "PREPARO_QUALIFICAÇÕES": {
+          "1": 5,
+          "2": 3,
+          "3": 5,
+          "4": 1,
+          "5": 2,
+          "6": 4,
+          "7": 1,
+          "8": 2
+        }
+      },
+      "seção2": {
+        "COMPROMISSO_RESULTADOS": {
+          "1": 1,
+          "2": 4
+        }
+      },
+      "seção3": {
+        "VISÃO_INSTITUCIONAL": {
+          "1": 4,
+          "2": 2,
+          "3": 3,
+          "4": 2
+        }
+      },
+      "seção4": {
+        "CARACTERÍSTICAS_COMPORTAMENTAIS": {
+          "1": 5,
+          "2": 3,
+          "3": 5,
+          "4": 1,
+          "5": 2,
+          "6": 4,
+          "7": 1,
+          "8": 2
+        }
+      },
+      "seção5": {
+        "TRABALHO_EM_EQUIPE": {
+          "1": 5,
+          "2": 3,
+          "3": 5,
+          "4": 1
+        }
+      },
+      "seção6": {
+        "RECONHECIMENTO_PELO_CLIENTE": {
+          "1": 5
+        }
+      },
+      "seção7": {
+        "MEDIDAS_DISCIPLINARES": {
+          "1": 2
+        }
+      },
+      "seção8": {
+        "NORMAS_DE_SEGURANÇA": {
+          "1": 5
+        }
+      }
+    }
+  }
+  
